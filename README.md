@@ -454,7 +454,7 @@ Machine-Learning-Specialization-Coursera/
   </defs>
   <line x1="0" y1="15" x2="700" y2="15" stroke="url(#div5)" stroke-width="1"/>
   <rect x="270" y="9" width="160" height="12" rx="6" fill="#1a1a2e" stroke="#c9a84c" stroke-width="1"/>
-  <text x="350" y="19" text-anchor="middle" font-family="Georgia" font-size="8" fill="#c9a84c" letter-spacing="2">ACKNOWLEDGEMENT</text>
+
 </svg>
 </div>
 
