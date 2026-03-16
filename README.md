@@ -458,38 +458,6 @@ Machine-Learning-Specialization-Coursera/
 </svg>
 </div>
 
-## Acknowledgement
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-**Andrew Ng**
-Founder, DeepLearning.AI
-Co-founder, Coursera
-Adjunct Professor, Stanford University
-
-</td>
-<td align="center" width="33%">
-
-**DeepLearning.AI**
-World-class AI education
-Trusted by millions of learners
-across 190+ countries
-
-</td>
-<td align="center" width="33%">
-
-**Coursera**
-Online learning platform
-University-grade content
-Professional certifications
-
-</td>
-</tr>
-</table>
 
 <br/>
 
